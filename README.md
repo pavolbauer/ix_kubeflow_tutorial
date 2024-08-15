@@ -6,7 +6,7 @@ Accompanying code for the iX magazine tutorial on Kubeflow 2023
   - listing2: PVC creation and mounting to components
   - listing3: Passing of Markdown code and UI metadata
 
-- tutorial2: Kserve and Evidently for model serving and monitoring [(Read full article here)](https://www.heise.de/select/ix/2023/9/2315907591704974604I)
+- tutorial2: Kserve and Evidently for model serving and monitoring [(Read full article here)](https://www.heise.de/ratgeber/Einstieg-in-MLOps-Teil-2-Mit-Kubeflow-und-Evidently-Modellendpunkte-erstellen-9240128.html?seite=all)
   - listing1: Creation of Kserve Sklearn server
   - listing2: Querying the Kserve Sklearn server
   - listing3: Drift and performance monitoring with Evidently
