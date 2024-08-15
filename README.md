@@ -5,7 +5,6 @@ Accompanying code for the iX magazine tutorial on Kubeflow 2023
   - listing1: Basic pipeline with two components
   - listing2: PVC creation and mounting to components
   - listing3: Passing of Markdown code and UI metadata
-  - Link to article: 
 
 - tutorial2: Kserve and Evidently for model serving and monitoring [(Read full article here)](https://www.heise.de/select/ix/2023/9/2315907591704974604I)
   - listing1: Creation of Kserve Sklearn server
